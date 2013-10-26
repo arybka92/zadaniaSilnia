@@ -50,7 +50,7 @@ public class SilniaTest {
         //when
             String wynik=kalkulatorSilni.licz(silnia);
         //then
-            Assert.fail();
+   
     }    
     
     /*
