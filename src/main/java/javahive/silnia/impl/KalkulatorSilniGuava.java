@@ -34,8 +34,6 @@ private BigDecimal liczBigDecimal(BigDecimal podstawa) {
     
 
     public String licz(int arg) {
-        //wynik działania rekrurencyjnej metody rzutowany jest na String,
-        //Bo string przechowa bez problemu duże liczby
         return liczBigDecimal(new BigDecimal(arg)).toString();
     }
 }
