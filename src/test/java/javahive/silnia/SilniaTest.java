@@ -102,7 +102,7 @@ public class SilniaTest {
         //when
             String wynik=kalkulatorSilni.licz(silnia);
         //then
-            Assert.assertEquals(wynik.substring(0,10), "3041409320");
+            Assert.assertEquals("3041409320",wynik.substring(0,10));
     }
     
     
