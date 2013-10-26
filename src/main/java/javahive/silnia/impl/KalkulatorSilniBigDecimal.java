@@ -10,8 +10,6 @@ import sun.reflect.generics.reflectiveObjects.NotImplementedException;
  *
  * @author Marcin Grabowiecki
  * 
- * proszę zaimplementować algorytm analogiczny jak dla SzybkaSilnia
- * jednak należy się oprzeć na na typie BigDecimal
  * 
  */
 
